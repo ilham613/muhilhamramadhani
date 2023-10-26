@@ -1,0 +1,8 @@
+.banner {
+    background: url("img.jpeg")
+      no-repeat cornflowerblue center;
+    background-size: contain;
+    padding-top: 40%;
+    padding-bottom: 40%;
+    color: #0e449b;
+  }
